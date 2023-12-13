@@ -2,7 +2,7 @@
 - 👀 I’m interested in C/C++/C#/Unity and Game Engine stuff.
 - 🌱 I’m currently learning C/C++ and Game Engine stuff.
 - 💞️ I’m looking to collaborate on Unty and game dev.
-- 📫 How to reach me https://www.linkedin.com/in/sit-bulu/
+- 📫 How to reach me? I do not know.
 
 <!---
 SeniourMarquies/SeniourMarquies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
