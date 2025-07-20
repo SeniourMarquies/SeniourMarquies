@@ -20,14 +20,14 @@
   <tr>
     <td align="center">
       <img src="https://s3.zerochan.net/Shiraki.Meiko.240.3570059.avif"
-           alt="Shiraki Meiko" width="200" height="200" /><br>
+           alt="Shiraki Meiko" width="200"  /><br>
       <b>Shiraki Meiko</b><br>
       <i>Prison School</i>
     </td>
     <td align="center">
       <a href="https://www.zerochan.net/Re-l%2BMayer" target="_blank">
         <img src="https://static.zerochan.net/Re-l.Mayer.full.3608033.png"
-             alt="Re-l Mayer" width="200" height="200" />
+             alt="Re-l Mayer" width="200"  />
       </a><br>
       <b>Re-l Mayer</b><br>
       <i>Ergo Proxy</i>
