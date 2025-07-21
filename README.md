@@ -14,7 +14,7 @@
 
 ---
 
-## 🌸 Fav Characters
+## 🌸 Fav Anime Characters
 
 <table>
   <tr>
@@ -25,15 +25,14 @@
       <i>Prison School</i>
     </td>
     <td align="center">
-      <a href="https://www.zerochan.net/Re-l%2BMayer" target="_blank">
-        <img src="https://static.zerochan.net/Re-l.Mayer.full.3608033.png"
-             alt="Re-l Mayer" width="200"  />
-      </a><br>
-      <b>Re-l Mayer</b><br>
-      <i>Ergo Proxy</i>
+      <img src="https://s3.zerochan.net/Yagami.Light.240.4454093.avif"
+           alt="Yagami Light"  /><br>
+      <b>Yagami Light</b><br>
+      <i>Death Note</i>
     </td>
   </tr>
 </table>
+
 
 
 
