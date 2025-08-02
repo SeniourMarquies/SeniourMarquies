@@ -67,14 +67,12 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seniourmarquies&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=seniourmarquies&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniourmarquies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seniourmarquies&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/seniourmarquies)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seniourmarquies&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seniourmarquies&theme=dark&hide_border=false)](https://github.com/seniourmarquies)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seniourmarquies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/seniourmarquies)
 
 ---
 
@@ -91,6 +89,3 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/*) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
